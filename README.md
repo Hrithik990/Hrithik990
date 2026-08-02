@@ -26,12 +26,12 @@ Whether it's developing new products, improving existing systems, or experimenti
 
 # Currently
 
-- 🚀 Building a School Management SaaS
-- 💻 Working as a Full Stack Developer
-- 🌱 Learning System Design & Cloud Architecture
-- ⚡ Exploring AI and Large Language Models
-- 🤝 Available for Freelance Projects
-- 📚 Building something every week
+- Building a School Management SaaS
+- Working as a Full Stack Developer
+- Learning System Design & Cloud Architecture
+- Exploring AI and Large Language Models
+- Available for Freelance Projects
+- Building something every week
 
 ---
 
