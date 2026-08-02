@@ -8,7 +8,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B5CF6)
+![](https://komarev.com/ghpvc/?username=Hrithik990&style=for-the-badge&color=8B5CF6)
 
 </div>
 
@@ -190,27 +190,27 @@ One-line description.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hrithik990&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrithik990&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Hrithik990&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrithik990&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hrithik990&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12"/>
 
 </div>
 
